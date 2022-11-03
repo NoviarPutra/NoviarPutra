@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @NoviarPutra
 - 👀 I’m interested in Javascript Programming
 - 🌱 I’m currently learning MongoDB, ExpressJS, ReactJS, NodeJS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : noviarpb@gmail.com / noviarputra.career@gmail.com
 
 <!---
 NoviarPutra/NoviarPutra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
