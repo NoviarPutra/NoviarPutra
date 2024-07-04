@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NoviarPutra
-- 👀 I’m interested in Javascript & Java Programming
-- 🌱 I’m currently learning MongoDB, ExpressJS, ReactJS, NodeJS, MySQL - PostgresSQL (RDBMS)
+- 🌱 I’m currently work as a junior programmer specializing in Flutter at PT. Danamas Insan Kreasi Andalan
 - 📫 How to reach me : noviarpb@gmail.com / noviarputra.career@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoviarPutra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
